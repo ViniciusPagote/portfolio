@@ -1,12 +1,3 @@
-# ![{{ site.title }}]({{ site.logo }})
-
-<p align="center">
-  <img src="{{ site.logo }}" alt="Logo" style="width: 150px;">
-</p>
-
-Com 7 anos de experiência, atuo no mercado de dados, sempre me adaptando aos desafios e evoluindo com as principais ferramentas, como Power BI, MicroStrategy, Databricks e Pacote Office.
-
-
 # Desenvolvedor Olap
 
 #### Habilidades técnicas: Power BI, MicroStrategy, Python, SQL, Snowflake, MATLAB
