@@ -1,0 +1,4 @@
+img[src="/assets/img/Imagem_perfil.jpg"] {
+    width: 150px; /* ajuste a largura da imagem */
+    height: auto; /* mantém a proporção da altura */
+}
