@@ -9,7 +9,7 @@ Trabalhos
 ### Projects
 projetos
 
-
+<img src="assets/img/Imagem_perfil.png" />
 
 
 viniciuspagote.github.io/portfolio
