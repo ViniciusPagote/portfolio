@@ -1,5 +1,5 @@
 title: Vinicius Pagote
 logo: /assets/img/imagem_perfil.png
 description: Sou desenvolvedor de dados, formado em Engenharia de Controle e Automação e Análise e Desenvolvimento de Sistemas. Com 7 anos de experiência, atuo no mercado de dados, sempre me adaptando aos desafios e evoluindo com as principais ferramentas, como Power BI, MicroStrategy, Databricks e Pacote Office.
-#show_downloads: true
-#theme: jekyll-theme-minimal
+show_downloads: true
+theme: jekyll-theme-minimal
