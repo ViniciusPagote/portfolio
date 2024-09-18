@@ -61,10 +61,23 @@ desenvolvimento de dashboards e acompanhamento de rotina de testes.
 
 
 
-### Projects
-projetos
-
-<img src="assets/img/Imagem_perfil.png" />
+### Cursos e Certificações
+Formação Engenharia de Dados
+DSA, Cursando
+Engenharia de Dados com Hadoop e Spark
+DSA, 2024
+Project Architect
+MicroStrategy, 2024
+Administrator
+MicroStrategy, 2023
+Python do Basico ao Avançado
+Udemy, 2023
+GCP Platform Big Data & Machine
+Fast Lane, 2023
+SQL para Análise de Dados
+Udemy, 2023
+Informatica PowerCenter - Beginner to Expert Level
+Udemy, 2022
 
 
 viniciuspagote.github.io/portfolio
