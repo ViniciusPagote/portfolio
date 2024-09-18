@@ -1,5 +1,5 @@
 title: Vinicius Pagote
-logo: /assets/img/Imagem_perfil.jpg
+logo: <img alt="Vini-CSS" height="100" width="105" src="/assets/img/Imagem_perfil.jpg"/>
 #description: text below image
 #show_downloads true
 theme: jekyll-theme-minimal
