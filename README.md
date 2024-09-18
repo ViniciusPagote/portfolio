@@ -9,6 +9,6 @@ Trabalhos
 ### Projects
 projetos
 
-(/assets/img/grafico.png)
+(/assets/iimg/grafico.png)  (assets/iimg/grafico.png)
 
 viniciuspagote.github.io/portfolio
