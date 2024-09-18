@@ -10,6 +10,6 @@ Trabalhos
 projetos
 
 
-<img src="assets/iimg/grafico.png" /> 
+
 
 viniciuspagote.github.io/portfolio
