@@ -1,9 +1,9 @@
-# Desenvolvedor Olap
+# Business Intelligence Developer
 
 #### Habilidades técnicas: Power BI, MicroStrategy, Python, SQL, Snowflake, MATLAB
 
 ## Educação
-- Tecnoloho, Análise e Desenvolvimento de Sistemas | Estácio de Sá (_Julho 2023_)								       		
+- Tecnologo, Análise e Desenvolvimento de Sistemas | Estácio de Sá (_Julho 2023_)								       		
 - Bacharel, Engenharia de Controle e Automação	| Faculdades Metropolitanas Unidas - FMU (_Dezembro 2019_)	 			        		
 
 
@@ -12,6 +12,7 @@
 - Alocado no BACEN (Banco Central do Brasil)
 - Integração e Análise de Dados: Integração de múltiplas fontes de dados com MicroStrategy e criação de painéis interativos e relatórios detalhados em MicroStrategy e Power BI com processos de ETL, assegurando qualidade e integridade dos dados, definição de métricas avançadas utilizando DAX e Linguagem M.
 - Administração e Gerenciamento: Administração das plataformas MicroStrategy e Power BI, incluindo manutenções e atualizações. Gerenciamento de servidores de BI, garantindo disponibilidade e segurança. Colaboração com áreas de negócio para entender necessidades e entregar soluções de BI.
+- Desenvolvi curso de Power BI Report Service para nivelamento dos servidores.
 
 **Business Intelligence Developer @ Yssy & Co. (_Junho 2022 - Outubro 2022_)**
 - Alocado no Banco Bradesco no setor de Garantias;
